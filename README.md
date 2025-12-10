@@ -5,7 +5,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evol
 ---
 
 ## 🚀 Sobre mim
-- 📚 Estudante de **Tecnologia da Informação** no IFB (curso técnico incompleto por motivos pessoais)
+- 📚 Fui estudante de **Tecnologia da Informação** no IFB (curso técnico incompleto por motivos pessoais)
 - 🎯 Atualmente estudando **Python 3**, pelo curso do Luiz Otávio na Udemy
 - 💼 Também em formação em **Marketing Digital** pelo **MetaLab**
 - 🔥 Buscando evoluir diariamente na área de tecnologia
