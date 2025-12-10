@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Caio
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/> 👋 Olá! Eu sou o Caio
 
 Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evolução como desenvolvedor.
 
@@ -11,6 +11,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evol
 - 🔥 Buscando evoluir diariamente na área de tecnologia
 
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -46,3 +47,5 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evol
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
 
+---
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
