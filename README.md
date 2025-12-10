@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Caio
 
-<!--
-**DevCaio07/DevCaio07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evolução como desenvolvedor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 📚 Estudante de **Tecnologia da Informação** no IFB (curso técnico incompleto por motivos pessoais)
+- 🎯 Atualmente estudando **Python 3**, pelo curso do Luiz Otávio na Udemy
+- 💼 Também em formação em **Marketing Digital** pelo **MetaLab**
+- 🔥 Buscando evoluir diariamente na área de tecnologia
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### **Linguagens**
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</div>
+
+### **Ferramentas e DevOps**
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Redes e Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiofernandoguimaraes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eucaaio._bjj/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+---
+
+## ✨ Uma frase que me guia
+> "A cada linha de código, uma nova versão de mim." ⭐
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
+
