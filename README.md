@@ -41,10 +41,6 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evol
 
 ---
 
-## ✨ Uma frase que me guia
-> "A cada linha de código, uma nova versão de mim." ⭐
-
----
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
 
