@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evol
 ---
 
 ## 🚀 Sobre mim
-- 📚 Fui estudante de **Tecnologia da Informação** no IFB (curso técnico incompleto por motivos pessoais)
+- 📚 Fui estudante de **Tecnologia da Informação** no IFB 
 - 🎯 Análise e Desenvolvimento de Sistemas - UNICEUB
 - 💼 Também formado em **Marketing Digital** pelo **MetaLab**
 - 🔥 Buscando evoluir diariamente na área de tecnologia
