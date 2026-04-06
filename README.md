@@ -1,54 +1,65 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caio+Fernando;I+study+analysis+and+systems+development+at+Uniceub;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e minha evolução como desenvolvedor.
-
----
-
-## 🚀 Sobre mim
-- 📚 Fui estudante de **Tecnologia da Informação** no IFB 
-- 🎯 Análise e Desenvolvimento de Sistemas - UNICEUB
-- 💼 Também formado em **Marketing Digital** pelo **MetaLab**
-- 🔥 Buscando evoluir diariamente na área de tecnologia
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### **Linguagens**
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-### **Ferramentas e DevOps**
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/caiofernandoguimaraes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/eucaaio._jj/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="contato.caioguimaraes77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevCaio07.DevCaio07&"  />
+</div>
 
-## 🌐 Redes e Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiofernandoguimaraes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eucaaio._bjj/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contato.caioguimaraes77@gmail.com)
+###
 
----
+<h1 align="center">Seja Bem-Vindo! 👋</h1>
 
+###
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
+<h3 align="left">🧑‍💻  Sobre Mim</h3>
 
----
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
----
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+###
+
+<p align="left">Eu sou Caio do Brasil<br><br>- 🏫 Faço Faculdade de Análise e Desenvolvimento de Sistemas no CEUB<br>- 🔭 Estou trabalhando como Auxiliar de TI<br>- 📚 Atualmente estou aprendendo Java<br>- ⚡ No meu tempo livre Estudo</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Meus Status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DevCaio07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
