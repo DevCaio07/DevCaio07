@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Olá, Me chamo Caio Fernando<br><br>- 🏫 Faço Faculdade de Análise e Desenvolvimento de Sistemas no CEUB<br>- 🔭 Estou trabalhando como Auxiliar de TI<br>- 📚 Atualmente estou aprendendo Java<br>- ⚡ No meu tempo livre Estudo</p>
+<p align="left">Olá, Me chamo Caio Fernando<br><br>- 🏫 Faço Faculdade de Análise e Desenvolvimento de Sistemas no CEUB<br>- 🔭 Estou trabalhando como Auxiliar de TI no BigBox<br>- 📚 Atualmente estou aprendendo Java e C<br>- ⚡ No meu tempo livre Estudo</p>
 
 ###
 
