@@ -2,14 +2,14 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/DevCaio07/DevCaio07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/DevCaio07/DevCaio07/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img data-importer="image" align="right" height="152" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTEycHA2YnAxOHpiNGxhYmQ2OGc1N3htNWJmNnVoam83b2Q0eWpsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXdo4BgGoFC80/giphy.gif"  />
 
 ###
 
-<img data-importer="image" align="right" height="152" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTEycHA2YnAxOHpiNGxhYmQ2OGc1N3htNWJmNnVoam83b2Q0eWpsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXdo4BgGoFC80/giphy.gif"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/DevCaio07/DevCaio07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/DevCaio07/DevCaio07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -47,8 +47,16 @@
 
 ###
 
-<br clear="both">
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=DevCaio07.DevCaio07&right_color=black"  />
+</div>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/DevCaio07/DevCaio07/snake-output/snake.svg" alt="Snake animation" />
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevCaio07/DevCaio07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevCaio07/DevCaio07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevCaio07/DevCaio07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
