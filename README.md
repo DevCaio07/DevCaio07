@@ -4,94 +4,132 @@
 
 ### Backend Developer | Java • Spring Boot
 
-Apaixonado por desenvolvimento backend e sempre buscando evoluir através de projetos práticos.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento backend, sempre buscando evoluir através de projetos práticos e aprendizado contínuo.
 
-[LinkedIn](SEU_LINKEDIN) • [Email](SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/caiofernandoguimaraes)
 
 </div>
 
 ---
 
-# 💻 Sobre mim
+# 💻 Sobre
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 
-💡 Atualmente estudando:
+💡 Atualmente focado em desenvolvimento Backend utilizando Java e Spring Boot.
 
-- Java 17+
+📚 Estudando constantemente:
+
+- Java
+- Programação Orientada a Objetos
 - Spring Boot
-- Spring Security
-- JPA / Hibernate
-- PostgreSQL
-- Docker
-- Git e GitHub
+- Spring Data JPA
+- MySQL
+- Azure
+- Git & GitHub
 
-📚 Também possuo conhecimentos em Python e Marketing Digital.
-
-🎯 Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backend Java.
+🎯 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend Java** e continuar evoluindo através de projetos reais.
 
 ---
 
 # 🚀 Tech Stack
 
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
+<img src="https://skillicons.dev/icons?i=java,spring"/>
 </p>
 
-## Banco de Dados
+### Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-## Ferramentas
+### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode"/>
+<img src="https://skillicons.dev/icons?i=azure"/>
 </p>
 
-## Linguagens
+### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
 </p>
 
 ---
 
 # 📂 Projetos
 
-### 📌 Sistema Bancário
+## 📚 PortfolioHub
 
-Sistema desenvolvido em Java utilizando Programação Orientada a Objetos.
+Projeto acadêmico desenvolvido em equipe durante a graduação.
 
-**Tecnologias**
+### Tecnologias
+
+- Java
+- Spring Boot
+- MySQL
+- JPA
+- Git
+
+Sistema voltado para gerenciamento e organização de portfólios acadêmicos.
+
+---
+
+## ☕ CRUD Java Core
+
+Projeto desenvolvido para praticar Programação Orientada a Objetos utilizando apenas Java Core.
+
+### Tecnologias
+
 - Java
 - Collections
 - Streams
 - POO
 
+Principais funcionalidades:
+
+- Cadastro
+- Consulta
+- Atualização
+- Remoção de usuários
+
 ---
 
-### 📌 API REST
+## 🥬 Fridge
 
-Em desenvolvimento utilizando:
+Aplicação desenvolvida para aprendizado de Spring Boot.
+
+### Tecnologias
 
 - Spring Boot
-- PostgreSQL
-- JPA
-- Docker
+- Spring Data JPA
+- MySQL
+
+Projeto criado para praticar a construção de APIs REST, integração com banco de dados e organização em camadas utilizando a arquitetura do Spring Boot.
 
 ---
 
-# 📊 Estatísticas
+# 📈 Atualmente estudando
+
+- Spring Boot
+- JPA / Hibernate
+- APIs REST
+- MySQL
+- Azure
+- Boas práticas de Backend
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCaio07&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaio07&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -99,5 +137,5 @@ Em desenvolvimento utilizando:
 
 # 📫 Contato
 
-- LinkedIn
-- Email
+- 💼 LinkedIn: SEU LINK
+- 📧 Email: SEU EMAIL
