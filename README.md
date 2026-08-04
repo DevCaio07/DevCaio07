@@ -2,7 +2,11 @@
 
 # 👋 Olá, eu sou Caio Fernando
 
-### Backend Developer | Java • Spring Boot
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+•+Spring+Boot" />
+
+</div>
 
 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento backend, sempre buscando evoluir através de projetos práticos e aprendizado contínuo.
 
