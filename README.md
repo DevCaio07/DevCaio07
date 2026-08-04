@@ -30,35 +30,58 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimen
 
 🎯 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend Java** e continuar evoluindo através de projetos reais.
 
----
+# Tech Stack
 
-# 🚀 Tech Stack
+<div align="center">
 
-### Backend
+<table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-</p>
+<tr>
+<td align="center"><b>Core</b></td>
+<td>
 
-### Banco de Dados
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,azure"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+</td>
+</tr>
 
-### Cloud
+<tr>
+<td align="center"><b>Infra & Tools</b></td>
+<td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure"/>
-</p>
-
-### Ferramentas
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Learning</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=hibernate"/>
+
+REST API • Spring Data JPA
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<p>
+
+<code>Java 17</code>
+<code>Spring Boot</code>
+<code>Spring Data JPA</code>
+<code>MySQL</code>
+<code>Azure</code>
+<code>Git</code>
+<code>GitHub</code>
+
 </p>
 
----
+</div>
 
 # 📂 Projetos
 
