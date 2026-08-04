@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Caio Fernando
+# 👋 Hi, I'm Caio Fernando
 
 <div align="center">
 
@@ -8,33 +8,35 @@
 
 </div>
 
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento backend, sempre buscando evoluir através de projetos práticos e aprendizado contínuo.
+Systems Analysis and Development student passionate about backend development, constantly improving through hands-on projects and continuous learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/caiofernandoguimaraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caiofernandoguimaraes)
 
 </div>
 
 ---
 
-# 💻 Sobre
+# 💻 About Me
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+🎓 Systems Analysis and Development student.
 
-💡 Atualmente focado em desenvolvimento Backend utilizando Java e Spring Boot.
+💡 Currently focused on Backend Development using Java and Spring Boot.
 
-📚 Estudando constantemente:
+📚 Currently learning:
 
 - Java
-- Programação Orientada a Objetos
+- Object-Oriented Programming
 - Spring Boot
 - Spring Data JPA
 - MySQL
-- Azure
+- Microsoft Azure
 - Git & GitHub
 
-🎯 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend Java** e continuar evoluindo através de projetos reais.
+🎯 My goal is to land my first opportunity as a **Java Backend Developer** while continuously improving through real-world projects.
 
-# Tech Stack
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -50,7 +52,7 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimen
 </tr>
 
 <tr>
-<td align="center"><b>Infra & Tools</b></td>
+<td align="center"><b>Infrastructure & Tools</b></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
@@ -59,7 +61,7 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimen
 </tr>
 
 <tr>
-<td align="center"><b>Learning</b></td>
+<td align="center"><b>Currently Learning</b></td>
 <td>
 
 REST API • Spring Data JPA
@@ -85,7 +87,9 @@ REST API • Spring Data JPA
 
 </div>
 
-# Projetos
+---
+
+# 📂 Featured Projects
 
 <table>
 
@@ -95,18 +99,18 @@ REST API • Spring Data JPA
 
 ### 📚 PortfolioHub
 
-`Projeto Acadêmico`
+`Academic Project`
 
-Sistema desenvolvido em equipe durante a graduação para gerenciamento de portfólios acadêmicos.
+A team-based academic project developed during college for managing academic portfolios.
 
 <br>
 
-**Principais funcionalidades**
+**Main Features**
 
-- Cadastro de usuários
-- Organização de portfólios
-- Persistência em banco de dados
-- Arquitetura em camadas
+- User registration
+- Portfolio organization
+- Database persistence
+- Layered architecture
 
 <br>
 
@@ -121,8 +125,8 @@ Sistema desenvolvido em equipe durante a graduação para gerenciamento de portf
 
 <br><br>
 
-<a href="https://github.com/DevCaio07/PortfolioHUB.git">
-<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/DevCaio07/PortfolioHUB">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -133,18 +137,18 @@ Sistema desenvolvido em equipe durante a graduação para gerenciamento de portf
 
 `Java Core`
 
-Projeto criado para consolidar os principais conceitos da linguagem Java.
+Project developed to strengthen the core concepts of the Java programming language.
 
 <br>
 
-**Principais funcionalidades**
+**Main Features**
 
-- Cadastro
-- Busca
-- Atualização
-- Remoção
+- Create
+- Search
+- Update
+- Delete
 
-Utilizando Collections, Streams e Programação Orientada a Objetos.
+Built using Collections, Streams, and Object-Oriented Programming.
 
 <br>
 
@@ -153,14 +157,14 @@ Utilizando Collections, Streams e Programação Orientada a Objetos.
 <br>
 
 <code>Java</code>
-<code>POO</code>
+<code>OOP</code>
 <code>Collections</code>
 <code>Streams</code>
 
 <br><br>
 
-<a href="https://github.com/DevCaio07/CRUDTerminal.git">
-<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/DevCaio07/CRUDTerminal">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -175,15 +179,15 @@ Utilizando Collections, Streams e Programação Orientada a Objetos.
 
 `Spring Boot`
 
-Projeto desenvolvido para estudos de Spring Boot com integração ao MySQL.
+A Spring Boot study project integrated with MySQL.
 
 <br>
 
-**Principais funcionalidades**
+**Main Features**
 
-- API REST
-- CRUD completo
-- Integração MySQL
+- REST API
+- Full CRUD
+- MySQL integration
 - Spring Data JPA
 
 <br>
@@ -199,8 +203,8 @@ Projeto desenvolvido para estudos de Spring Boot com integração ao MySQL.
 
 <br><br>
 
-<a href="https://github.com/DevCaio07/Aprendendo-SpringBoot.git">
-<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/DevCaio07/Aprendendo-SpringBoot">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -209,14 +213,16 @@ Projeto desenvolvido para estudos de Spring Boot com integração ao MySQL.
 
 </table>
 
-# 📈 Atualmente estudando
+---
+
+# 📚 Currently Learning
 
 - Spring Boot
-- JPA / Hibernate
-- APIs REST
+- Spring Data JPA / Hibernate
+- REST APIs
 - MySQL
-- Azure
-- Boas práticas de Backend
+- Microsoft Azure
+- Backend Best Practices
 
 ---
 
@@ -225,11 +231,10 @@ Projeto desenvolvido para estudos de Spring Boot com integração ao MySQL.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DevCaio07&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
-</p>
 
 ---
 
-# 📫 Contato
+# 📫 Contact
 
-- 💼 LinkedIn: www.linkedin.com/in/caiofernandoguimaraes
+- 💼 LinkedIn: https://www.linkedin.com/in/caiofernandoguimaraes
 - 📧 Email: caiotech.devbr@gmail.com
