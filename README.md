@@ -1,74 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:22c55e&text=Caio%20Fernando&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1120,50:2563EB,100:16A34A&text=Caio%20Fernando&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=Backend%20Developer&descAlignY=62"/>
 
-# 👋 Olá, eu sou Caio Fernando
+<br>
 
-### Backend Developer • Java • Spring Boot • MySQL • Azure
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Developer;Spring+Boot+Enthusiast;MySQL;Microsoft+Azure;Always+Learning."/>
 
-<p>
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><br>
+
+<a href="www.linkedin.com/in/caiofernandoguimaraes">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto: caiotech.devbr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=DevCaio07&label=Profile%20Views&color=22c55e&style=for-the-badge"/>
-
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+Developer;Spring+Boot+Enthusiast;Sempre+aprendendo+algo+novo." />
+<img src="https://komarev.com/ghpvc/?username=DevCaio07&style=for-the-badge&color=22c55e"/>
 
 </div>
 
 ---
+# 💻 Developer Terminal
 
-# 💻 Sobre mim
+```bash
+caio@github:~$ whoami
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+> Backend Developer
+> ADS Student
+> Java Enthusiast
+> Spring Boot Learner
 
-🚀 Focado em desenvolvimento **Backend Java**
+-----------------------------------------
 
-📚 Atualmente estudando
+Current Stack
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- MySQL
-- Microsoft Azure
-- APIs REST
+☕ Java
+🌱 Spring Boot
+🗄 MySQL
+☁ Azure
 
-🎯 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, desenvolvendo soluções escaláveis e aprendendo continuamente.
+Status:
 
----
+🟢 Looking for Backend Internship
 
+```
+# 👨‍💻 About Me
+
+```yaml
+name: Caio Fernando
+
+education:
+  - Analysis and Systems Development
+
+focus:
+  - Backend Development
+
+currently_learning:
+  - Spring Boot
+  - REST APIs
+  - Spring Data JPA
+  - Azure
+
+goals:
+  - Become a Backend Java Developer
+  - Build scalable REST APIs
+  - Keep improving every day
+```
 # 🚀 Tech Stack
 
 <div align="center">
 
-### Backend
+## Backend
 
 <img src="https://skillicons.dev/icons?i=java,spring"/>
 
-### Banco de Dados
+---
+
+## Database
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-### Cloud
+---
+
+## Cloud
 
 <img src="https://skillicons.dev/icons?i=azure"/>
 
-### Ferramentas
+---
+
+## Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
 
 </div>
-
----
-
-# 📂 Projetos
+# 📦 Featured Projects
 
 <table>
 
@@ -76,41 +102,47 @@
 
 <td width="50%">
 
-## 📚 PortfolioHub
+# 📚 PortfolioHub
 
-Projeto acadêmico desenvolvido durante a graduação.
+Sistema desenvolvido durante a graduação.
 
-Sistema voltado para gerenciamento de portfólios acadêmicos, permitindo organização de projetos e informações de estudantes.
+### Tecnologias
 
-**Tecnologias**
+Java
 
-`Java`
-`Spring Boot`
-`MySQL`
-`JPA`
-`Git`
+Spring Boot
+
+MySQL
+
+Git
+
+JPA
+
+---
+
+Sistema para gerenciamento de portfólios acadêmicos.
 
 </td>
 
 <td width="50%">
 
-## ☕ CRUD Java Core
+# ☕ CRUD Java Core
 
-Projeto criado para consolidar os principais conceitos de Java.
+CRUD completo utilizando Java.
 
-Funcionalidades:
+### Conceitos
 
-- Cadastro
-- Consulta
-- Atualização
-- Remoção
+POO
 
-Tecnologias
+Collections
 
-`Java`
-`POO`
-`Collections`
-`Streams`
+Streams
+
+Java Core
+
+---
+
+Projeto criado para consolidar fundamentos da linguagem.
 
 </td>
 
@@ -120,100 +152,121 @@ Tecnologias
 
 <td colspan="2">
 
-## 🥬 Fridge
+# 🥬 Fridge
 
-Aplicação desenvolvida para aprendizado de Spring Boot.
+API REST criada para estudo de Spring Boot.
 
-Projeto focado na criação de APIs REST utilizando Spring Boot com integração ao MySQL.
+### Tecnologias
 
-Tecnologias
+Spring Boot
 
-`Spring Boot`
-`Spring Data JPA`
-`MySQL`
-`REST API`
+MySQL
+
+Spring Data JPA
+
+REST API
+
+---
+
+Aplicação focada na integração com banco de dados MySQL.
 
 </td>
 
 </tr>
 
 </table>
-
----
-
-# 📚 Atualmente estudando
+# 📚 Roadmap
 
 ```text
-☕ Java
-🌱 Spring Boot
-🗄️ MySQL
-☁️ Azure
-🔗 APIs REST
-📦 Spring Data JPA
+█████████████████████████████
+
+Java Core               ✅
+
+POO                     ✅
+
+Collections             ✅
+
+Streams                 ✅
+
+Git                     ✅
+
+GitHub                  ✅
+
+Spring Boot             ✅
+
+MySQL                   ✅
+
+REST APIs               🟡
+
+Azure                   🟡
+
+Spring Security         ⬜
+
+JWT                     ⬜
+
+Microsserviços          ⬜
+
+Kubernetes              ⬜
+
+█████████████████████████████
 ```
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCaio07&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCaio07&theme=github_dark&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaio07&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DevCaio07&theme=github-dark-blue&hide_border=true"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=DevCaio07&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaio07&theme=github-dark&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaio07&theme=github-dark&hide_border=true"/>
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevCaio07&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevCaio07&theme=algolia&no-frame=true&margin-w=12"/>
 
 </div>
-
 ---
 
-# 📫 Contato
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/caiofernandoguimaraes">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto: caiotech.devbr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⭐ Obrigado pela visita!
+### ⭐ Thanks for visiting!
 
-*"Código limpo, aprendizado contínuo e evolução constante."*
+*"Code. Learn. Build. Repeat."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,100:2563eb"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:16A34A,100:2563EB"/>
 
 </div>
