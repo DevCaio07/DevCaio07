@@ -219,11 +219,8 @@ Projeto desenvolvido para estudos de Spring Boot com integração ao MySQL.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCaio07&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaio07&layout=compact&theme=github_dark"/>
-
+  <img src="https://streak-stats.demolab.com?user=DevCaio07&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 </p>
 
 ---
