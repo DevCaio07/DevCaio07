@@ -1,141 +1,219 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:22c55e&text=Caio%20Fernando&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58"/>
+
 # 👋 Olá, eu sou Caio Fernando
 
-### Backend Developer | Java • Spring Boot
+### Backend Developer • Java • Spring Boot • MySQL • Azure
 
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento backend, sempre buscando evoluir através de projetos práticos e aprendizado contínuo.
+<p>
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/caiofernandoguimaraes)
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=DevCaio07&label=Profile%20Views&color=22c55e&style=for-the-badge"/>
+
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+Developer;Spring+Boot+Enthusiast;Sempre+aprendendo+algo+novo." />
 
 </div>
 
 ---
 
-# 💻 Sobre
+# 💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-💡 Atualmente focado em desenvolvimento Backend utilizando Java e Spring Boot.
+🚀 Focado em desenvolvimento **Backend Java**
 
-📚 Estudando constantemente:
+📚 Atualmente estudando
 
 - Java
-- Programação Orientada a Objetos
 - Spring Boot
 - Spring Data JPA
 - MySQL
-- Azure
-- Git & GitHub
+- Microsoft Azure
+- APIs REST
 
-🎯 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend Java** e continuar evoluindo através de projetos reais.
+🎯 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, desenvolvendo soluções escaláveis e aprendendo continuamente.
 
 ---
 
 # 🚀 Tech Stack
 
+<div align="center">
+
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,spring"/>
-</p>
 
 ### Banco de Dados
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
 
 ### Cloud
 
-<p>
 <img src="https://skillicons.dev/icons?i=azure"/>
-</p>
 
 ### Ferramentas
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
-</p>
+
+</div>
 
 ---
 
 # 📂 Projetos
 
+<table>
+
+<tr>
+
+<td width="50%">
+
 ## 📚 PortfolioHub
 
-Projeto acadêmico desenvolvido em equipe durante a graduação.
+Projeto acadêmico desenvolvido durante a graduação.
 
-### Tecnologias
+Sistema voltado para gerenciamento de portfólios acadêmicos, permitindo organização de projetos e informações de estudantes.
 
-- Java
-- Spring Boot
-- MySQL
-- JPA
-- Git
+**Tecnologias**
 
-Sistema voltado para gerenciamento e organização de portfólios acadêmicos.
+`Java`
+`Spring Boot`
+`MySQL`
+`JPA`
+`Git`
 
----
+</td>
+
+<td width="50%">
 
 ## ☕ CRUD Java Core
 
-Projeto desenvolvido para praticar Programação Orientada a Objetos utilizando apenas Java Core.
+Projeto criado para consolidar os principais conceitos de Java.
 
-### Tecnologias
-
-- Java
-- Collections
-- Streams
-- POO
-
-Principais funcionalidades:
+Funcionalidades:
 
 - Cadastro
 - Consulta
 - Atualização
-- Remoção de usuários
+- Remoção
 
----
+Tecnologias
+
+`Java`
+`POO`
+`Collections`
+`Streams`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
 
 ## 🥬 Fridge
 
 Aplicação desenvolvida para aprendizado de Spring Boot.
 
-### Tecnologias
+Projeto focado na criação de APIs REST utilizando Spring Boot com integração ao MySQL.
 
-- Spring Boot
-- Spring Data JPA
-- MySQL
+Tecnologias
 
-Projeto criado para praticar a construção de APIs REST, integração com banco de dados e organização em camadas utilizando a arquitetura do Spring Boot.
+`Spring Boot`
+`Spring Data JPA`
+`MySQL`
+`REST API`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📈 Atualmente estudando
+# 📚 Atualmente estudando
 
-- Spring Boot
-- JPA / Hibernate
-- APIs REST
-- MySQL
-- Azure
-- Boas práticas de Backend
+```text
+☕ Java
+🌱 Spring Boot
+🗄️ MySQL
+☁️ Azure
+🔗 APIs REST
+📦 Spring Data JPA
+```
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCaio07&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCaio07&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaio07&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaio07&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DevCaio07&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaio07&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DevCaio07&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
 
 ---
 
 # 📫 Contato
 
-- 💼 LinkedIn: www.linkedin.com/in/caiofernandoguimaraes
-- 📧 Email: caiotech.devbr@gmail.com
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado pela visita!
+
+*"Código limpo, aprendizado contínuo e evolução constante."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,100:2563eb"/>
+
+</div>
