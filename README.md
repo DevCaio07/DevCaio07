@@ -137,5 +137,5 @@ Projeto criado para praticar a construção de APIs REST, integração com banco
 
 # 📫 Contato
 
-- 💼 LinkedIn: SEU LINK
-- 📧 Email: SEU EMAIL
+- 💼 LinkedIn: www.linkedin.com/in/caiofernandoguimaraes
+- 📧 Email: caiotech.devbr@gmail.com
