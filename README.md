@@ -58,8 +58,6 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimen
 <td align="center"><b>Learning</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=hibernate"/>
-
 REST API • Spring Data JPA
 
 </td>
