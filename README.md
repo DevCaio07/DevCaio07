@@ -83,57 +83,129 @@ REST API • Spring Data JPA
 
 </div>
 
-# 📂 Projetos
+# Projetos
 
-## 📚 PortfolioHub
+<table>
 
-Projeto acadêmico desenvolvido em equipe durante a graduação.
+<tr>
 
-### Tecnologias
+<td width="50%" valign="top">
 
-- Java
-- Spring Boot
-- MySQL
-- JPA
-- Git
+### 📚 PortfolioHub
 
-Sistema voltado para gerenciamento e organização de portfólios acadêmicos.
+`Projeto Acadêmico`
 
----
+Sistema desenvolvido em equipe durante a graduação para gerenciamento de portfólios acadêmicos.
 
-## ☕ CRUD Java Core
+<br>
 
-Projeto desenvolvido para praticar Programação Orientada a Objetos utilizando apenas Java Core.
+**Principais funcionalidades**
 
-### Tecnologias
+- Cadastro de usuários
+- Organização de portfólios
+- Persistência em banco de dados
+- Arquitetura em camadas
 
-- Java
-- Collections
-- Streams
-- POO
+<br>
 
-Principais funcionalidades:
+`Backend`
+
+<br>
+
+<code>Java</code>
+<code>Spring Boot</code>
+<code>MySQL</code>
+<code>Spring Data JPA</code>
+
+<br><br>
+
+<a href="LINK_REPOSITORIO">
+<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☕ CRUD Java Core
+
+`Java Core`
+
+Projeto criado para consolidar os principais conceitos da linguagem Java.
+
+<br>
+
+**Principais funcionalidades**
 
 - Cadastro
-- Consulta
+- Busca
 - Atualização
-- Remoção de usuários
+- Remoção
 
----
+Utilizando Collections, Streams e Programação Orientada a Objetos.
 
-## 🥬 Fridge
+<br>
 
-Aplicação desenvolvida para aprendizado de Spring Boot.
+`Backend`
 
-### Tecnologias
+<br>
 
-- Spring Boot
+<code>Java</code>
+<code>POO</code>
+<code>Collections</code>
+<code>Streams</code>
+
+<br><br>
+
+<a href="LINK_REPOSITORIO">
+<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 🥬 Fridge
+
+`Spring Boot`
+
+Projeto desenvolvido para estudos de Spring Boot com integração ao MySQL.
+
+<br>
+
+**Principais funcionalidades**
+
+- API REST
+- CRUD completo
+- Integração MySQL
 - Spring Data JPA
-- MySQL
 
-Projeto criado para praticar a construção de APIs REST, integração com banco de dados e organização em camadas utilizando a arquitetura do Spring Boot.
+<br>
 
----
+`Backend`
+
+<br>
+
+<code>Spring Boot</code>
+<code>MySQL</code>
+<code>REST API</code>
+<code>JPA</code>
+
+<br><br>
+
+<a href="LINK_REPOSITORIO">
+<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 # 📈 Atualmente estudando
 
