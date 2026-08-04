@@ -117,7 +117,7 @@ Sistema desenvolvido em equipe durante a graduação para gerenciamento de portf
 
 <br><br>
 
-<a href="[LINK_REPOSITORIO](https://github.com/DevCaio07/PortfolioHUB.git)">
+<a href="https://github.com/DevCaio07/PortfolioHUB.git">
 <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -195,7 +195,7 @@ Projeto desenvolvido para estudos de Spring Boot com integração ao MySQL.
 
 <br><br>
 
-<a href="LINK_REPOSITORIO">
+<a href="https://github.com/DevCaio07/Aprendendo-SpringBoot.git">
 <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
 </a>
 
