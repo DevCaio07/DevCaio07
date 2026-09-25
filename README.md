@@ -8,7 +8,7 @@
 
 </div>
 
-Systems Analysis and Development student passionate about backend development, constantly improving through hands-on projects and continuous learning.
+Software Engineering Student at @UniCEUB passionate about backend development, constantly improving through hands-on projects and continuous learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caiofernandoguimaraes)
 
