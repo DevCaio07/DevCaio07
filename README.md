@@ -18,7 +18,7 @@ Software Engineering Student at @UniCEUB passionate about backend development, c
 
 # 💻 About Me
 
-🎓 Systems Analysis and Development student.
+🎓 Software Engineering student.
 
 💡 Currently focused on Backend Development using Java and Spring Boot.
 
