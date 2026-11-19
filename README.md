@@ -1,240 +1,143 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Caio Fernando
+# `root@caio:~# whoami`
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Ethical+Hacking;Offensive+Security;Always+Learning.+Always+Exploring." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+•+Spring+Boot" />
+### CAIO FERNANDO | CYBERSECURITY
 
-</div>
+**Software Engineering Student @ UniCEUB**
 
-Software Engineering Student at @UniCEUB passionate about backend development, constantly improving through hands-on projects and continuous learning.
+Exploring the world of cybersecurity, understanding how systems work, identifying vulnerabilities, and learning how to make them more secure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caiofernandoguimaraes)
-
-</div>
-
----
-
-# 💻 About Me
-
-🎓 Software Engineering student.
-
-💡 Currently focused on Backend Development using Java and Spring Boot.
-
-📚 Currently learning:
-
-- Java
-- Object-Oriented Programming
-- Spring Boot
-- Spring Data JPA
-- MySQL
-- Microsoft Azure
-- Git & GitHub
-
-🎯 My goal is to land my first opportunity as a **Java Backend Developer** while continuously improving through real-world projects.
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<table>
-
-<tr>
-<td align="center"><b>Core</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,azure"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Infrastructure & Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Currently Learning</b></td>
-<td>
-
-REST API • Spring Data JPA
-
-</td>
-</tr>
-
-</table>
-
-<br>
-
-<p>
-
-<code>Java 17</code>
-<code>Spring Boot</code>
-<code>Spring Data JPA</code>
-<code>MySQL</code>
-<code>Azure</code>
-<code>Git</code>
-<code>GitHub</code>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/caiofernandoguimaraes)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/DevCaio07)
 
 </div>
 
 ---
 
-# 📂 Featured Projects
+## `01 // ABOUT ME`
 
-<table>
+```bash
+$ cat about.txt
+```
 
-<tr>
+I'm a Software Engineering student passionate about Cybersecurity, Ethical Hacking and Offensive Security.
 
-<td width="50%" valign="top">
+Currently building my knowledge through hands-on labs, networking studies, Linux environments and security fundamentals.
 
-### 📚 PortfolioHub
+I believe understanding how technology works is the first step toward understanding how to protect it.
 
-`Academic Project`
-
-A team-based academic project developed during college for managing academic portfolios.
-
-<br>
-
-**Main Features**
-
-- User registration
-- Portfolio organization
-- Database persistence
-- Layered architecture
-
-<br>
-
-`Backend`
-
-<br>
-
-<code>Java</code>
-<code>Spring Boot</code>
-<code>MySQL</code>
-<code>Spring Data JPA</code>
-
-<br><br>
-
-<a href="https://github.com/DevCaio07/PortfolioHUB">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ CRUD Java Core
-
-`Java Core`
-
-Project developed to strengthen the core concepts of the Java programming language.
-
-<br>
-
-**Main Features**
-
-- Create
-- Search
-- Update
-- Delete
-
-Built using Collections, Streams, and Object-Oriented Programming.
-
-<br>
-
-`Backend`
-
-<br>
-
-<code>Java</code>
-<code>OOP</code>
-<code>Collections</code>
-<code>Streams</code>
-
-<br><br>
-
-<a href="https://github.com/DevCaio07/CRUDTerminal">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-### 🥬 Fridge
-
-`Spring Boot`
-
-A Spring Boot study project integrated with MySQL.
-
-<br>
-
-**Main Features**
-
-- REST API
-- Full CRUD
-- MySQL integration
-- Spring Data JPA
-
-<br>
-
-`Backend`
-
-<br>
-
-<code>Spring Boot</code>
-<code>MySQL</code>
-<code>REST API</code>
-<code>JPA</code>
-
-<br><br>
-
-<a href="https://github.com/DevCaio07/Aprendendo-SpringBoot">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-</tr>
-
-</table>
+- 🎓 Software Engineering Student at UniCEUB
+- 🔐 Focused on Cybersecurity & Ethical Hacking
+- 🖥️ Exploring Linux, Networking and System Security
+- 🧪 Practicing through labs and CTF challenges
+- 🎯 Looking for my first opportunity in Cybersecurity
 
 ---
 
-# 📚 Currently Learning
+## `02 // TECH STACK`
 
-- Spring Boot
-- Spring Data JPA / Hibernate
-- REST APIs
-- MySQL
-- Microsoft Azure
-- Backend Best Practices
+<div align="center">
+
+### OPERATING SYSTEMS & ENVIRONMENTS
+
+<img src="https://skillicons.dev/icons?i=linux,kali,docker" />
+
+### PROGRAMMING & DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
+
+### NETWORKING & SECURITY
+
+<img src="https://img.shields.io/badge/TCP%2FIP-0A0A0A?style=flat-square&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Networking-0A0A0A?style=flat-square&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Linux_Administration-0A0A0A?style=flat-square&logo=linux&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/CTF_Labs-0A0A0A?style=flat-square&logoColor=00FF9C" />
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## `03 // CURRENT FOCUS`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevCaio07&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+```bash
+$ ./learning_path.sh
+```
+
+| Area | Focus |
+|---|---|
+| Networking | TCP/IP, DNS, HTTP, Ports and Protocols |
+| Linux | Command Line, Permissions and Administration |
+| Ethical Hacking | Security Fundamentals and Methodology |
+| Offensive Security | Vulnerability Assessment and Pentesting Concepts |
+| Web Security | HTTP, Web Applications and Common Vulnerabilities |
+| CTF | Practical Challenges and Technical Documentation |
 
 ---
 
-# 📫 Contact
+## `04 // SECURITY LABS & RESEARCH`
 
-- 💼 LinkedIn: https://www.linkedin.com/in/caiofernandoguimaraes
-- 📧 Email: caiotech.devbr@gmail.com
+```bash
+$ ls -la ~/security-labs/
+```
+
+Building a practical cybersecurity portfolio through:
+
+- Hands-on security laboratories
+- CTF challenges and write-ups
+- Networking experiments
+- Linux and system exploration
+- Vulnerability analysis in authorized environments
+- Technical documentation and research
+
+**Every experiment is an opportunity to learn something new.**
+
+*This section will grow as I document and publish my practical work.*
+
+---
+
+## `05 // DEVELOPMENT BACKGROUND`
+
+Before focusing on cybersecurity, I built a foundation in software development, backend architecture and programming.
+
+These projects remain part of my technical journey.
+
+| Project | Technologies | Repository |
+|---|---|---|
+| PortfolioHUB | Java, Spring Boot, MySQL | [View](https://github.com/DevCaio07/PortfolioHUB) |
+| CRUD Java Core | Java, OOP, Collections | [View](https://github.com/DevCaio07/CRUDTerminal) |
+| Fridge API | Spring Boot, MySQL, JPA | [View](https://github.com/DevCaio07/Aprendendo-SpringBoot) |
+
+---
+
+## `06 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DevCaio07&theme=transparent&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%" />
+
+</div>
+
+---
+
+## `07 // CONNECT WITH ME`
+
+```bash
+$ echo "Let's connect and share knowledge."
+```
+
+- **LinkedIn:** [caiofernandoguimaraes](https://www.linkedin.com/in/caiofernandoguimaraes)
+- **Email:** caiotech.devbr@gmail.com
+- **GitHub:** [DevCaio07](https://github.com/DevCaio07)
+
+<div align="center">
+
+```text
+[ LEARN ] ---- [ EXPLORE ] ---- [ ANALYZE ] ---- [ SECURE ]
+```
+
+**"Think like an attacker. Understand like an engineer. Defend with knowledge."**
+
+</div>
